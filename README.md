@@ -57,11 +57,6 @@ Output of decoder program is the decoded message. It should be saved as __*"deco
   * ii. encoded.bin
   * iii. code_table.txt 
   * iv. decoded.txt
-* sample2/..             *[large inputs/outputs set]*
-  * i. sample_input_large.txt
-  * ii. encoded.bin
-  * iii. code_table.txt
-  * iv. decoded.txt 
 
 ## Run environment 
 
